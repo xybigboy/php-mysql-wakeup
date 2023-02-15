@@ -1,1 +1,1 @@
-# php-mysql-wakeup 开机项目只支持触摸设备
+# php-mysql-wakeup 远程开机项目只支持触摸设备
